@@ -47,7 +47,7 @@ header > p {
 }
 
 .meme > img {
-  width: 100%;
+  width: 50%;
 }
 
 .meme > h2 {
@@ -120,4 +120,7 @@ header > p {
   font-family: VT323, monospace;
   font-size: 25px;
   text-align: cen;
+}
+#meme-img{
+  height: 50%;
 }
